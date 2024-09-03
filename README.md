@@ -1,8 +1,8 @@
-## Boas vindas ao meu Perfil 💛
+## Boas vindas ao meu Perfil 💙
 
 Meu nome é Alessandra Barbosa;
 
-- Estou estudando na Alura!
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo a Linguagem de JavaScript
 - Utilizo esta plataforma para minha organização e compartilhamento de projetos
 
