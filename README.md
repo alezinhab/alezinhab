@@ -9,5 +9,4 @@ Meu nome é Alessandra Barbosa;
   ### Você pode se conectar comigo 📧
   Email: alessandrabarbosa1015@gmail.com
   
-![]()
-  https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif
+![](https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif)
